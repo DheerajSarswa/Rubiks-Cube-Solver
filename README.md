@@ -145,13 +145,7 @@ The IDA\* solver uses pre-computed pattern databases containing optimal distance
 
 ## Author & Contributors
 
-- Created by Lakshya Mittal (17-12-2021)
-- Modified by Pranav Harresh (25-07-2025)
-- Co-creator: Shubham Patil (17/12/21)
-
-## License
-
-[Add appropriate license information]
+- Created by Dhiraj Sarswa
 
 ## Notes
 
